@@ -1,0 +1,22 @@
+Here I put 12 sets of systems of non-linear equations. Each set of equations includes its solution.
+
+
+                                                Instructions
+The graphic interface was designed to solve systems of two or more equations.
+To use the application you must follow the following steps:
+
+1.  Define the number of equations.
+2. Place the independent variables (they must go together but separate by a comma ",").
+3. Select the method to be used (N-R, CGM, OM, HCM or combine GC
+with another method) to solve the proposed system.
+4. Depending on the selected method and the complexity of the system to be solved, the control parameters must be adjusted.
+5. Once these parameters have been set, the functions to be solved can be placed, these must be placed together but separated by a comma.
+6. Place the starting point (must go together but separated by a comma), you can propose a starting point if known, but if it is unknown, it is recommended to use the initial point generator and the CGM to have a better approximation.
+7. Click on the "Calculate" button.
+8. If you want to calculate another totally different system, you must click on the "Start again" button and repeat steps 1 to 7.
+9. If the system to solve is complex errors can be generated when calculating the solution, in these cases an error message will be displayed and this will have a brief description of what happened.
+10. If the HCM is selected for the calculation of the equation system and during the homotopic traced, reversions were obtained, a message indicating "reversion" will be displayed, as well as that happened iteration
+
+Once the system of equations has been solved, the result will be shown in the window on the right side, at the bottom; as well as the compute time that consumed.
+If you want to solve the problem with HCM, then the application will create two text files, where in one file the homotopic trajectory will be saved and in another file the solutions you have found will be saved. The files will be created automatically in the location of the application.
+
