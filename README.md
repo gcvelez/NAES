@@ -1,2 +1,2 @@
 # NAES
-Sistemas de ecuaciones algebraicos no lineales
+Systems of nonlinear algebraic equations.
