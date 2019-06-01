@@ -20,3 +20,4 @@ with another method) to solve the proposed system.
 Once the system of equations has been solved, the result will be shown in the window on the right side, at the bottom; as well as the compute time that consumed.
 If you want to solve the problem with HCM, then the application will create two text files, where in one file the homotopic trajectory will be saved and in another file the solutions you have found will be saved. The files will be created automatically in the location of the application.
 
+Note: It is recommended to use the software "Sublime text" for the management of txt files, because, in some notepad  it can not be opened correctly.
